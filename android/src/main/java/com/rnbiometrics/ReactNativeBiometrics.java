@@ -111,9 +111,9 @@ public class ReactNativeBiometrics extends ReactContextBaseJavaModule {
                 dialog.show(activity.getFragmentManager(), "fingerprint_dialog");
             } else {
                 promise.reject("cannot generate keys on android versions below 6.0", "cannot generate keys on android versions below 6.0");
-            }
+        }
         } catch (Exception e) {
-            promise.reject("error signing payload: " + e.getMessage(), "error generating signature");
+            promise.reject("error signing payload: " + e.getMessage(), "error generating signature " +  e.getMessage());
         }
     }
 

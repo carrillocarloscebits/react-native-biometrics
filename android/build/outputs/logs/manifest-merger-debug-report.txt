@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml:3:11-37
+		INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml:2:1-7:12
+		INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml:2:1-7:12
+		INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml:4:5-74
+	android:name
+		ADDED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml:4:22-71
+uses-feature#android.hardware.fingerprint
+ADDED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml:6:5-89
+	android:required
+		ADDED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml:6:63-87
+	android:name
+		ADDED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml:6:19-62
+uses-sdk
+INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\F-035\Documents\GitHub\epaisadev\node_modules\react-native-biometrics\android\src\main\AndroidManifest.xml

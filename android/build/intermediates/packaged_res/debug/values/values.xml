@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hint_color">#42000000</color>
+    <color name="success_color">#009688</color>
+    <color name="warning_color">#f4511e</color>
+    <string name="fingerprint_cancel">Cancel</string>
+    <string name="fingerprint_hint">Touch sensor</string>
+    <string name="fingerprint_message">Confirm fingerprint to continue</string>
+    <string name="fingerprint_not_recognized">Fingerprint not recognized. Try again</string>
+    <string name="fingerprint_recognized">Fingerprint recognized</string>
+    <style name="BiometricsDialog" parent="@style/Theme.AppCompat.Light.Dialog">
+        <item name="android:windowNoTitle">false</item>
+    </style>
+</resources>
